@@ -1,2 +1,2 @@
 # hello_world
-Just another repository
+We'll call this a complete readme for a hello world app.
